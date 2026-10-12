@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pablojimo30@gmail.com
+	name = Pablo Jimenez Molina
